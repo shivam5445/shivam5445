@@ -1,6 +1,6 @@
 # Welcome to my page
 
-I'm Shivam, an undergraduate student Computer Science Student (🏫 IIT Palakkad), passionate about exploring technology and its applications.
+I'm Shivam, an undergraduate Computer Science Student (🏫 IIT Palakkad), passionate about exploring technology and its applications.
 
 ## About me
 - 📖 I’m currently learning Data Science and Machine Learning
