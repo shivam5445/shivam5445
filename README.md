@@ -3,7 +3,7 @@
 I'm Shivam, an undergraduate Computer Science Student (🏫 IIT Palakkad), passionate about exploring technology and its applications.
 
 ## About me
-- 📖 I’m currently learning Data Science and Machine Learning
+- 📖 I’m currently learning LLM
 - ⚡ Fun fact: Once you start there's no going back
 
 ## Things I code with
